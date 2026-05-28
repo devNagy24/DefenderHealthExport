@@ -435,4 +435,6 @@ Possible future enhancements:
 
 ## Author
 
+Devon Nagy
+
 Created for internal Microsoft Defender health reporting and automation workflows.
